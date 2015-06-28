@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://monimon.github.io
+title: noteamargine
+paginate: 5
